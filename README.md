@@ -70,8 +70,6 @@ src="https://img.shields.io/github/followers/LavanyaRamkumar?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/LavanyaRamkumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KSTARK007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LavanyaRamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kstark007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LavanyaRamkumar" alt="LavanyaRamkumar" /></a> </p>
