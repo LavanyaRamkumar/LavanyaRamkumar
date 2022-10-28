@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advance Systems concepts
 - 💬 Ask me about distrubuted systems
 - 📫 How to reach me: lavanya.ramkumar99@gmail.com
-- 🌍  I'm based in Illinois, USA
+- 🌍  I'm based in Illinois, US
 
 <a href="https://www.github.com/LavanyaRamkumar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LavanyaRamkumar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
